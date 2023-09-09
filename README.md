@@ -9,7 +9,7 @@ one music scientist's search for a real job
 
 **And in bold**
 
-[Sing4Change!] (https://sing4change.org)
+[Sing4Change!](https://sing4change.org)
 
 ---
 
