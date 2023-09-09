@@ -2,7 +2,7 @@
 one music scientist's search for a real job
 ## This is the title
 1. One
-2. Tw0
+2. Two
 3. Three
    
 *I can also write in cursive*
